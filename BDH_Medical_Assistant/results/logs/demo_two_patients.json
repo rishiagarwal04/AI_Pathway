@@ -1,0 +1,25 @@
+{
+  "demo": "two_patients",
+  "timestamp": "2026-02-26T12:01:36.481602",
+  "patients": [
+    "Patient: Alice. Condition: Migraine.",
+    "Patient: Bob. Condition: Asthma."
+  ],
+  "results": [
+    {
+      "query": "Patient: Alice. Condition:",
+      "expected": " Mig",
+      "retrieved": " Mig",
+      "similarity": 1.000000238418579,
+      "correct": true
+    },
+    {
+      "query": "Patient: Bob. Condition:",
+      "expected": " Ast",
+      "retrieved": " Ast",
+      "similarity": 1.0000001192092896,
+      "correct": true
+    }
+  ],
+  "accuracy": 1.0
+}

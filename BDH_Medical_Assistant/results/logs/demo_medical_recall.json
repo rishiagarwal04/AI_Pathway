@@ -1,0 +1,35 @@
+{
+  "demo": "medical_recall",
+  "timestamp": "2026-02-26T12:01:36.511637",
+  "records": [
+    "Medical Record: Patient Sarah. Diagnosis: Headache.",
+    "Medical Record: Patient Mike. Diagnosis: Fever."
+  ],
+  "queries": [
+    [
+      "Medical Record: Patient Sarah. Diagnosis:",
+      "Headache"
+    ],
+    [
+      "Medical Record: Patient Mike. Diagnosis:",
+      "Fever"
+    ]
+  ],
+  "results": [
+    {
+      "patient": "Sarah",
+      "query": "Medical Record: Patient Sarah. Diagnosis:",
+      "expected": "Headache",
+      "retrieved": " Head",
+      "correct": true
+    },
+    {
+      "patient": "Mike",
+      "query": "Medical Record: Patient Mike. Diagnosis:",
+      "expected": "Fever",
+      "retrieved": " Fever",
+      "correct": true
+    }
+  ],
+  "accuracy": 1.0
+}

@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-02-26T12:01:36.515949",
+  "results": {
+    "single_fact": {
+      "accuracy": 1.0,
+      "success": true,
+      "similarity": 1.0000001192092896
+    },
+    "two_patients": {
+      "accuracy": 1.0,
+      "correct": 2,
+      "total": 2
+    },
+    "matrix_retrieval": {
+      "accuracy": 1.0,
+      "correct": 3,
+      "total": 3
+    },
+    "medical_recall": {
+      "accuracy": 1.0,
+      "correct": 2,
+      "total": 2
+    }
+  },
+  "average_accuracy": 1.0
+}

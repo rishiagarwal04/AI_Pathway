@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-02-26T12:01:37.275897",
+  "demos": [
+    "Single Fact",
+    "Two Patients",
+    "Matrix Retrieval",
+    "Medical Recall"
+  ],
+  "accuracies": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "average": 1.0
+}

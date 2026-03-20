@@ -1,0 +1,11 @@
+{
+  "demo": "single_fact",
+  "timestamp": "2026-02-26T12:01:36.467798",
+  "fact": "Patient: John. Diagnosis: Diabetes.",
+  "query": "Patient: John. Diagnosis:",
+  "expected": " Diabetes",
+  "retrieved": " Diabetes",
+  "similarity": 1.0000001192092896,
+  "success": true,
+  "accuracy": 1.0
+}

@@ -1,0 +1,43 @@
+{
+  "demo": "matrix_retrieval",
+  "timestamp": "2026-02-26T12:01:36.498530",
+  "pairs": [
+    [
+      " apple",
+      " fruit"
+    ],
+    [
+      " dog",
+      " animal"
+    ],
+    [
+      " car",
+      " vehicle"
+    ]
+  ],
+  "results": [
+    {
+      "key": " apple",
+      "expected": " fruit",
+      "retrieved": " fruit",
+      "similarity": 0.7866230010986328,
+      "correct": true
+    },
+    {
+      "key": " dog",
+      "expected": " animal",
+      "retrieved": " animal",
+      "similarity": 0.9701055288314819,
+      "correct": true
+    },
+    {
+      "key": " car",
+      "expected": " vehicle",
+      "retrieved": " vehicle",
+      "similarity": 0.9622228145599365,
+      "correct": true
+    }
+  ],
+  "accuracy": 1.0,
+  "memory_norm": 4.715426921844482
+}

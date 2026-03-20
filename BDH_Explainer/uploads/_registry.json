@@ -1,0 +1,11 @@
+[
+  {
+    "id": "default",
+    "name": "BDH Default",
+    "task": "Arithmetic",
+    "description": "Default pre-trained BDH checkpoint",
+    "path": "/home/pikachu/Desktop/BDH_Explainer/bdh/bdh_trained.pt",
+    "created_at": "2025-01-01T00:00:00Z",
+    "deletable": false
+  }
+]
