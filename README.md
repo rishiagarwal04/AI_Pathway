@@ -197,20 +197,6 @@ The installation instructions and hosted demo links for all three projects are i
 
 ---
 
-## Team & Contributions
-
-This suite was developed by the **BDH Research Group**.
-
-| Member | Contribution Area |
-|:---|:---|
-| **Aarsh Verma** | Website ideation, backend architecture and implementation |
-| **Anay Gupta** | Medical Assistant chatbot development and integration |
-| **Ajay Meena** | Game of Life analysis, core project ideation |
-| **Abhijit Shankar, Hadekar Ankit Kishor, Prince Kumar** | Frontend ideation, UI architecture planning |
-| **Manas Mistry, Gowtham Sai Reddy** | UI/UX design, user experience optimization |
-
----
-
 ## References
 
 - [Baby Dragon Hatchling (BDH)](https://arxiv.org/abs/2509.26507) — Kosowski et al., 2025. The core architecture and biological inspiration.
